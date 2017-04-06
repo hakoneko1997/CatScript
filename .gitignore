@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.sqlite
+*.swp
+*~
+build/
+./idea
